@@ -12,7 +12,7 @@ const Navbar = () => {
             <StyledToolbar>
                 <MenuItem>Sobre</MenuItem>
                 <MenuItem>Habilidades</MenuItem>
-                <MenuItem>Projectos</MenuItem>
+                <MenuItem>Projetos</MenuItem>
             </StyledToolbar>
         </AppBar>
     </>
